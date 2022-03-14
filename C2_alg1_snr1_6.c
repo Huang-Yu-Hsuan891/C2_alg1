@@ -123,7 +123,7 @@ int main() {
 
     int temp;
     // declaration end
-    ebn0s= 1.8;
+    ebn0s= 1.6;
 
     // open file
     FILE *fpr;
@@ -309,7 +309,6 @@ int main() {
     u = (int *)malloc(ulen * sizeof(int));
 
     // for CODE part
-    //printf("1243");
     while (error_block < 100) {        
         k = 2;   // need to initialize for computing new information block
         I_eq = 0;
@@ -518,8 +517,8 @@ int main() {
                     //s++;        // wait for correct
                 }    
             for (i = 0; i < rc/2; i++) if (checkbit[i] == 0 ) s++;
+            //printf("s = %d \n;",s);
             I_eq++;
-            printf("s= %d\n",s);
             //printf("I_eq = %d\n", I_eq);
             if (s_2 == rc/2) k--;
             //printf("k = %d\n",k);
@@ -528,11 +527,8 @@ int main() {
         for (i = n/2; i < n; i++) {
             if((output[i] != codarray[i])) error2++;            
         }
-        printf("k = %d\n",k);
-        //printf("123");
-        s = 0;
+        //printf("k = %d\n",k);
         while (I_eq < I_max && k == level - 1 && s != rc/2) {
-            printf("s= %d\n",s);
             s = 0;
             for (I_eq_1_2 = 0; I_eq_1_2 < 3/*3*/; I_eq_1_2++) {
                 //s = 0;
@@ -570,13 +566,14 @@ int main() {
                                     //if (i == 0)printf("tempuij = %g; ",tempuij);
                                 }
                                 for (m = 5; m < 11; m++) {
-                                    if (tempqij1[m] >= 0) sgn = 1;
-                                    //else if (tempqij1[m] == 0) sgn = 0;
+                                    if (tempqij1[m] > 0) sgn = 1;
+                                    else if (tempqij1[m] == 0) sgn = 0;
                                     else sgn = -1;
-                                    //if (i == 0) printf("sgn=%d ", sgn);
+                                    if (i == 0) printf("sgn=%d ", sgn);
                                     tempuij = sgn * tempuij;
-                                    //if (i == 0)printf("tempuij = %g; ",tempuij);
+                                    if (i == 0)printf("tempuij = %g; \n",tempuij);
                                 }
+                            
                             }/* else {
                                 for (m = 1; m < 6; m++) {
                                     tempuij = CHK(tempuij, tempqij1[m]);
@@ -594,7 +591,7 @@ int main() {
                             //for(m = 1; m < 11; m++) tempuij = CHK(tempuij, tempqij1[m]);
                             uij1[i][j] = tempuij;
                         }
-                    }/* else {
+                    } /*else {
                         for (j = 0; j < 6; j++) {
                             for (m = 0; m < 5; m++) {
                                 if (m < j) {
@@ -684,11 +681,9 @@ int main() {
                 if (i < (rc/2)) {
                     for (j = 0; j < 12; j++) checkbit[i] += output[L1[i][j] - 1];
                     checkbit[i] = checkbit[i] % 2;
-                    //if (checkbit[i] != 0) printf("checkbit[%d] = %d \n",i,checkbit[i]);
                 } else {
                     for (j = 0; j < 6; j++) checkbit[i] += output[L2[i-1844][j] - 1];
                     checkbit[i] = checkbit[i] % 2;
-                    //if (checkbit[i] != 0) printf("checkbit = %d \n",checkbit[i]);
                 }
             }
                 /*for (i= rc/2; i < rc; i++) 
@@ -715,7 +710,7 @@ int main() {
         printf("totalerror1 = %d ", totalerror1);
         printf("totalerror2 = %d ", totalerror2);
         FILE *outfp3; 
-        outfp3 = fopen("c2alg1_1_8_level1_totalerror1_0313.txt","a");
+        outfp3 = fopen("c2alg1_1_6_level1_totalerror1.txt","a");
         if(error_block == 10||error_block == 20||error_block == 50) fprintf(outfp3,"num = %d,  ebn0s = %g , errorblock = %d",num,ebn0s,error_block);
         if(error_block == 10||error_block == 20||error_block == 50) fprintf(outfp3,"totalerror1 = %d ",totalerror1);
         if(error_block == 10||error_block == 20||error_block == 50) fprintf(outfp3,"totalerror2 = %d ",totalerror2);
@@ -735,7 +730,7 @@ int main() {
     // code ended
 
     FILE *outfp2; 
-    outfp2 = fopen("c2alg_1_8_level1_tryieq=3_0313.txt","w");
+    outfp2 = fopen("c2alg_1_6_level1_tryieq=3.txt","w");
          fprintf(outfp2,"%g ",ebn0s);
          fprintf(outfp2,"%g ",ber1);
          fprintf(outfp2,"%g ",ber2);

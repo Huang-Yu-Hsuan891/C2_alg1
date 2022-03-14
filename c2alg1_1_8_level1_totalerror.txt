@@ -1,0 +1,2552 @@
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 467 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 1022 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+1.8 totalerror1 = 4910 totalerror2 = 0 
+num = 1107,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1108,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1109,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1110,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1111,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1112,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1113,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1114,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1115,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1116,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1117,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1118,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1119,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1120,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1121,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1122,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1123,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1124,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1125,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1126,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1127,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1128,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1129,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1130,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1131,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1132,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1133,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1134,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1135,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1136,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1137,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1138,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1139,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1140,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1141,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1142,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1143,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1144,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1145,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1146,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1147,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1148,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1149,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1150,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1151,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1152,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1153,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1154,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1155,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1156,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1157,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1158,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1159,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1160,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1161,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1162,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1163,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1164,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1165,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1166,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1167,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1168,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1169,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1170,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1171,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1172,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1173,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1174,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1175,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1176,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1177,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1178,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1179,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1180,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1181,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1182,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1183,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1184,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1185,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1186,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1187,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1188,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1189,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1190,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1191,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1192,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1193,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1194,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1195,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1196,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1197,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1198,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1199,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1200,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1201,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1202,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1203,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1204,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1205,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1206,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1207,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1208,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1209,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1210,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1211,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1212,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1213,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1214,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1215,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1216,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1217,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1218,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1219,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1220,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1221,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1222,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1223,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1224,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1225,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1226,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1227,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1228,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1229,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1230,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1231,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1232,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1233,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1234,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1235,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1236,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1237,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1238,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1239,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1240,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1241,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1242,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1243,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1244,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1245,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1246,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1247,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1248,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1249,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1250,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1251,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1252,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1253,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1254,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1255,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1256,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1257,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1258,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1259,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1260,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1261,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1262,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1263,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1264,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1265,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1266,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1267,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1268,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1269,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1270,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1271,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1272,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1273,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1274,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1275,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1276,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1277,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1278,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1279,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1280,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1281,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1282,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1283,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1284,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1285,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1286,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1287,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1288,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1289,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1290,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1291,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1292,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1293,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1294,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1295,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1296,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1297,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1298,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1299,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1300,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1301,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1302,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1303,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1304,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1305,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1306,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1307,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1308,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1309,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1310,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1311,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1312,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1313,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1314,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1315,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1316,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1317,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1318,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1319,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1320,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1321,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1322,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1323,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1324,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1325,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1326,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1327,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1328,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1329,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1330,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1331,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1332,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1333,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1334,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1335,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1336,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1337,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1338,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1339,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1340,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1341,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1342,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1343,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1344,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1345,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1346,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1347,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1348,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1349,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1350,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1351,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1352,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1353,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1354,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1355,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1356,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1357,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1358,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1359,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1360,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1361,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1362,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1363,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1364,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1365,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1366,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1367,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1368,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1369,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1370,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1371,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1372,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1373,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1374,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1375,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1376,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1377,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1378,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1379,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1380,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1381,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1382,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1383,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1384,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1385,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1386,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1387,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1388,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1389,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1390,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1391,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1392,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1393,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1394,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1395,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1396,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1397,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1398,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1399,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1400,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1401,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1402,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1403,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1404,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1405,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1406,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1407,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1408,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1409,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1410,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1411,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1412,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1413,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1414,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1415,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1416,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1417,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1418,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1419,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1420,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1421,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1422,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1423,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1424,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1425,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1426,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1427,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1428,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1429,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1430,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1431,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1432,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1433,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1434,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1435,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1436,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1437,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1438,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1439,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1440,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1441,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1442,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1443,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1444,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1445,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1446,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1447,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1448,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1449,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1450,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1451,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1452,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1453,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1454,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1455,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1456,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1457,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1458,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1459,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1460,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1461,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1462,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1463,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1464,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1465,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1466,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1467,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1468,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1469,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1470,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1471,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1472,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1473,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1474,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1475,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1476,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1477,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1478,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1479,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1480,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1481,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1482,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1483,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1484,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1485,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1486,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1487,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1488,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1489,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1490,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1491,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1492,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1493,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1494,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1495,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1496,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1497,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1498,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1499,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1500,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1501,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1502,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1503,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1504,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1505,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1506,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1507,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1508,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1509,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1510,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1511,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1512,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1513,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1514,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1515,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1516,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1517,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1518,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1519,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1520,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1521,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1522,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1523,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1524,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1525,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1526,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1527,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1528,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1529,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1530,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1531,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1532,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1533,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1534,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1535,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1536,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1537,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1538,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1539,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1540,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1541,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1542,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1543,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1544,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1545,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1546,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1547,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1548,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1549,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1550,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1551,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1552,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1553,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1554,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1555,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1556,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1557,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1558,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1559,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1560,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1561,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1562,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1563,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1564,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1565,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1566,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1567,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1568,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1569,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1570,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1571,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1572,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1573,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1574,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1575,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1576,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1577,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1578,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1579,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1580,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1581,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1582,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1583,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1584,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1585,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1586,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1587,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1588,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1589,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1590,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 1591,  ebn0s = 1.8 , errorblock = 10totalerror1 = 467 totalerror2 = 0 
+num = 2461,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2462,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2463,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2464,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2465,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2466,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2467,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2468,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2469,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2470,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2471,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2472,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2473,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2474,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2475,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2476,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2477,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2478,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2479,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2480,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2481,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2482,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2483,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2484,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2485,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2486,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2487,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2488,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2489,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2490,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2491,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2492,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2493,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2494,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2495,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2496,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2497,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2498,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2499,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2500,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2501,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2502,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2503,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2504,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2505,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2506,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2507,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2508,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2509,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2510,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2511,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2512,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2513,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2514,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2515,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2516,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2517,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2518,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2519,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2520,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2521,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2522,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2523,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2524,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2525,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2526,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2527,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2528,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2529,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2530,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2531,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2532,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2533,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2534,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2535,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2536,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2537,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2538,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2539,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2540,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2541,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2542,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2543,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2544,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2545,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2546,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2547,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2548,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2549,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2550,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2551,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2552,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2553,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2554,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2555,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2556,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2557,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2558,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2559,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2560,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2561,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2562,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2563,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2564,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2565,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2566,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2567,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2568,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2569,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2570,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2571,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2572,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2573,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2574,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2575,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2576,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2577,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2578,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2579,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2580,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2581,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2582,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2583,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2584,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2585,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2586,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2587,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2588,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2589,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2590,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2591,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2592,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2593,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2594,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2595,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2596,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2597,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2598,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2599,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2600,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2601,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2602,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2603,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2604,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2605,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2606,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2607,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2608,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2609,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2610,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2611,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2612,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2613,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2614,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2615,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2616,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2617,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2618,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2619,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2620,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2621,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2622,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2623,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2624,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2625,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2626,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2627,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2628,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2629,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2630,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2631,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2632,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2633,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2634,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2635,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2636,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2637,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2638,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2639,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2640,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2641,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2642,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2643,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2644,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2645,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2646,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2647,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2648,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2649,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2650,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2651,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2652,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2653,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2654,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2655,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2656,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2657,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2658,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2659,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2660,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2661,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2662,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2663,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2664,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2665,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2666,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2667,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2668,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2669,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2670,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2671,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2672,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2673,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2674,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2675,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2676,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2677,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2678,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2679,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2680,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2681,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2682,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2683,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2684,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2685,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2686,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2687,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2688,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2689,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2690,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2691,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2692,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2693,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2694,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2695,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2696,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2697,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2698,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2699,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2700,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2701,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2702,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2703,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2704,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2705,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2706,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2707,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2708,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2709,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2710,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2711,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2712,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2713,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2714,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2715,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2716,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2717,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2718,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2719,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2720,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2721,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2722,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2723,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2724,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2725,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2726,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2727,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2728,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2729,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2730,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2731,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2732,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2733,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2734,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2735,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2736,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2737,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2738,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2739,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2740,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2741,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2742,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2743,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2744,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2745,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2746,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2747,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2748,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2749,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2750,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2751,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2752,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2753,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2754,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2755,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2756,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2757,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2758,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2759,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2760,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2761,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2762,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2763,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2764,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2765,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2766,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2767,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2768,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2769,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2770,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2771,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2772,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2773,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2774,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2775,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2776,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2777,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2778,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2779,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2780,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2781,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2782,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2783,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2784,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2785,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2786,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2787,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2788,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2789,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2790,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2791,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2792,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2793,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2794,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2795,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2796,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 2797,  ebn0s = 1.8 , errorblock = 20totalerror1 = 1022 totalerror2 = 0 
+num = 6776,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6777,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6778,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6779,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6780,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6781,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6782,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6783,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6784,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6785,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6786,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6787,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6788,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6789,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6790,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6791,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6792,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6793,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6794,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6795,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6796,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6797,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6798,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6799,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6800,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6801,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6802,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6803,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6804,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6805,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6806,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6807,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6808,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6809,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6810,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6811,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6812,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6813,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6814,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6815,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6816,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6817,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6818,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6819,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6820,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6821,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6822,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6823,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6824,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6825,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6826,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6827,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6828,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6829,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6830,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6831,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6832,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6833,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6834,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6835,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6836,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6837,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6838,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6839,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6840,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6841,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6842,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6843,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6844,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6845,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6846,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6847,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6848,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6849,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6850,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6851,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6852,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6853,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6854,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6855,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6856,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6857,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6858,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6859,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6860,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6861,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6862,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6863,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6864,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6865,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6866,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6867,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6868,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6869,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6870,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6871,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6872,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6873,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6874,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6875,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6876,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6877,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6878,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6879,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6880,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6881,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6882,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6883,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6884,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6885,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6886,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6887,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6888,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6889,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6890,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6891,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6892,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6893,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6894,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6895,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6896,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6897,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6898,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6899,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6900,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6901,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6902,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6903,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6904,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6905,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6906,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6907,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6908,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6909,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6910,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6911,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6912,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6913,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6914,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6915,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6916,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6917,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6918,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6919,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6920,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6921,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6922,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6923,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6924,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6925,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6926,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6927,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6928,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6929,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6930,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6931,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6932,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6933,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6934,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6935,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6936,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6937,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6938,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6939,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6940,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6941,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6942,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6943,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6944,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6945,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6946,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6947,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6948,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6949,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6950,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6951,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6952,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6953,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6954,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6955,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6956,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6957,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6958,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6959,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6960,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6961,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6962,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6963,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6964,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6965,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6966,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6967,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6968,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6969,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6970,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6971,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6972,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6973,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6974,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6975,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6976,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6977,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6978,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6979,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6980,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6981,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6982,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6983,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6984,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6985,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6986,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6987,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6988,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6989,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6990,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6991,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6992,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6993,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6994,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6995,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6996,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6997,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6998,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 6999,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7000,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7001,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7002,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7003,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7004,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7005,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7006,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7007,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7008,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7009,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7010,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7011,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7012,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7013,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7014,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7015,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7016,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7017,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7018,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7019,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7020,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7021,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7022,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7023,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7024,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7025,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7026,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7027,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7028,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7029,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7030,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7031,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7032,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7033,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7034,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7035,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7036,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7037,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7038,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7039,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7040,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7041,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7042,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7043,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7044,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7045,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7046,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7047,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7048,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7049,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7050,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7051,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7052,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7053,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7054,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7055,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7056,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7057,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7058,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7059,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7060,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7061,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7062,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7063,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7064,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7065,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7066,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7067,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7068,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7069,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7070,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7071,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7072,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7073,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7074,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7075,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7076,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7077,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7078,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7079,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7080,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7081,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7082,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7083,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7084,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7085,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7086,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7087,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7088,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7089,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7090,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7091,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7092,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7093,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7094,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7095,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7096,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7097,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7098,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7099,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7100,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7101,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7102,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7103,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7104,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7105,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7106,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7107,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7108,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7109,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7110,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7111,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7112,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7113,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7114,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7115,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7116,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7117,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7118,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7119,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7120,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7121,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7122,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7123,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7124,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7125,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7126,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7127,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7128,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7129,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7130,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7131,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7132,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7133,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7134,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7135,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7136,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7137,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7138,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7139,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7140,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7141,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7142,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7143,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7144,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7145,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7146,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7147,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7148,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7149,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7150,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7151,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7152,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7153,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7154,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7155,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7156,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7157,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7158,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7159,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7160,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7161,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7162,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7163,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7164,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7165,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7166,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7167,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7168,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7169,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7170,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7171,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7172,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7173,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7174,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7175,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7176,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7177,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7178,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7179,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7180,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7181,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7182,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7183,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7184,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7185,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7186,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7187,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7188,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7189,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7190,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7191,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7192,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7193,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7194,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7195,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7196,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7197,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7198,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7199,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7200,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7201,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7202,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7203,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7204,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7205,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7206,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7207,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7208,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7209,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7210,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7211,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7212,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7213,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7214,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7215,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7216,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7217,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7218,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7219,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7220,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7221,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7222,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7223,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7224,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7225,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7226,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7227,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7228,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 
+num = 7229,  ebn0s = 1.8 , errorblock = 50totalerror1 = 4910 totalerror2 = 0 

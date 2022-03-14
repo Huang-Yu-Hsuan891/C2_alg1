@@ -376,10 +376,11 @@ int main() {
             for (j = 0; j < uij2column; j++) uij2[i][j] = 0;
         }
         // in k=level, still compute all algorithm
-        
+        //k=level;
         while (I_eq < I_max && k == level) {
             s = 0;
             s_2 = 0;
+            //k = level;
             for (i = 0; i < 11; i++) tempqij1[i] = 0.0;
             for (i = 0; i < 5; i++) tempqij2[i] = 0.0;
             for (i = 0; i < computlen; i++) comput[i] = 0;
@@ -522,6 +523,7 @@ int main() {
         for (i = n/2; i < n; i++) {
             if((output[i] != codarray[i])) error2++;            
         }
+        printf("k = %d\n",k);
         while (I_eq < I_max && k == level - 1 && s != rc/2) {
             s = 0;
             for (I_eq_1_2 = 0; I_eq_1_2 < 3; I_eq_1_2++) {
@@ -551,6 +553,7 @@ int main() {
                                     if (tempqij1[m] > 0) sgn = 1;
                                     else if (tempqij1[m] == 0) sgn = 0;
                                     else sgn = -1;
+                                    if(i == 0) printf("sgn = %d ;", sgn);
                                     tempuij = sgn * tempuij;
                                 }
                             } else {
@@ -562,6 +565,7 @@ int main() {
                                     tempuij = sgn * tempuij;
                                 }
                             }
+                            //printf("\n");
                             //for(m = 1; m < 11; m++) tempuij = CHK(tempuij, tempqij1[m]);
                             uij1[i][j] = tempuij;
                         }

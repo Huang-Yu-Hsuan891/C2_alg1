@@ -123,7 +123,7 @@ int main() {
 
     int temp;
     // declaration end
-    ebn0s= 1.8;
+    ebn0s= 1.4;
 
     // open file
     FILE *fpr;
@@ -309,7 +309,6 @@ int main() {
     u = (int *)malloc(ulen * sizeof(int));
 
     // for CODE part
-    //printf("1243");
     while (error_block < 100) {        
         k = 2;   // need to initialize for computing new information block
         I_eq = 0;
@@ -353,7 +352,6 @@ int main() {
         }
         ebn0 = ebn0s;
         sigma = sqrt(1.0 / (pow(10, ebn0/10)));
-        //sigma = 0.812831;
         // add noise to code
         for(i = 0; i < rc; i++) {
             normal(sigma, &x, &y);
@@ -363,7 +361,6 @@ int main() {
         //printf("yes\n");
         // the log likelihood ratio (LLR)
         ebn0 = pow(10, ebn0/10);
-        //ebn0 = 1.513561;
         for(i = 0; i < Ljlen; i++) Lj[i] =4 * 0.5 * ebn0 * outp[i];     //  0.5 * 1.2544 = Es/N0
         
         // the interative decoding algotrithm
@@ -516,10 +513,10 @@ int main() {
                 if (checkbit[i] == 0) {
                     s_2++;
                     //s++;        // wait for correct
+                
                 }    
             for (i = 0; i < rc/2; i++) if (checkbit[i] == 0 ) s++;
             I_eq++;
-            printf("s= %d\n",s);
             //printf("I_eq = %d\n", I_eq);
             if (s_2 == rc/2) k--;
             //printf("k = %d\n",k);
@@ -529,12 +526,9 @@ int main() {
             if((output[i] != codarray[i])) error2++;            
         }
         printf("k = %d\n",k);
-        //printf("123");
-        s = 0;
         while (I_eq < I_max && k == level - 1 && s != rc/2) {
-            printf("s= %d\n",s);
             s = 0;
-            for (I_eq_1_2 = 0; I_eq_1_2 < 3/*3*/; I_eq_1_2++) {
+            for (I_eq_1_2 = 0; I_eq_1_2 < 5/*3*/; I_eq_1_2++) {
                 //s = 0;
                 for (i = 0; i < 11; i++) tempqij1[i] = 0.0;
                 for (i = 0; i < 5; i++) tempqij2[i] = 0.0;
@@ -542,84 +536,41 @@ int main() {
                 // bottom - up
                 for (i = 0; i < rc; i++) {
                     if (i < (rc/2)) {
-                        for (j = 0; j < 6/*12*/; j++) {
+                        for (j = 0; j < 12; j++) {
                             for (m = 0; m < 11; m++) {
                                 if (m < j) {
                                     valL = L1[i][m]-1;
                                     if (valL < (n/2)) tempqij1[m] = qij1[comput[valL]][valL];
                                     else tempqij1[m] = qij2[comput[valL]][valL - 3688];
-                                    //if (i == 0)printf("valL = %d; ",valL);
-                                    //if (i == 0)printf("tempqij1[m] = %g; ",tempqij1[m]);
                                 } else if (m >= j) {
                                     valL = L1[i][m+1]-1;
                                     if (valL < (n/2)) tempqij1[m] = qij1[comput[valL]][valL];
                                     else tempqij1[m] = qij2[comput[valL]][valL - 3688];
-                                    //if (i == 0)printf("valL = %d; ",valL);
-                                    //if (i == 0)printf("tempqij1[m] = %g; ",tempqij1[m]);
                                 }
                             }
-                            /*for (m = 0; m < 11; m++) {
-                                if (i == 0) printf("tempqij1[%d] = %g ;",m,tempqij1[m]);
-                            }*/
-                            //if (i == 0)printf("\n");
                             tempuij = tempqij1[0];
-                            //if (i == 0)printf("tempuij = %g; ",tempuij);
                             if (j <6){
-                                for (m = 1; m < 5; m++) {
-                                    tempuij = CHK(tempuij, tempqij1[m]);
-                                    //if (i == 0)printf("tempuij = %g; ",tempuij);
-                                }
+                                for (m = 1; m < 5; m++) tempuij = CHK(tempuij, tempqij1[m]);
                                 for (m = 5; m < 11; m++) {
-                                    if (tempqij1[m] >= 0) sgn = 1;
-                                    //else if (tempqij1[m] == 0) sgn = 0;
+                                    if (tempqij1[m] > 0) sgn = 1;
+                                    else if (tempqij1[m] == 0) sgn = 0;
                                     else sgn = -1;
                                     //if (i == 0) printf("sgn=%d ", sgn);
                                     tempuij = sgn * tempuij;
-                                    //if (i == 0)printf("tempuij = %g; ",tempuij);
                                 }
-                            }/* else {
-                                for (m = 1; m < 6; m++) {
-                                    tempuij = CHK(tempuij, tempqij1[m]);
-                                    //if (i == 0&&j==8)printf("tempuij = %g; ",tempuij);
-                                }
+                            } else {
+                                for (m = 1; m < 6; m++) tempuij = CHK(tempuij, tempqij1[m]);
                                 for (m = 6; m < 11; m++) {
                                     if (tempqij1[m] > 0) sgn = 1;
                                     else if (tempqij1[m] == 0) sgn = 0;
                                     else sgn = -1;
-                                    if (i == 0) printf("sgn=%d ", sgn);
                                     tempuij = sgn * tempuij;
-                                    //if (i == 0&&j==8)printf("tempuij = %g; ",tempuij);
                                 }
-                            }*/
+                            }
                             //for(m = 1; m < 11; m++) tempuij = CHK(tempuij, tempqij1[m]);
                             uij1[i][j] = tempuij;
                         }
-                    }/* else {
-                        for (j = 0; j < 6; j++) {
-                            for (m = 0; m < 5; m++) {
-                                if (m < j) {
-                                    valL = L2[i-1844][m]-1;
-                                    if (valL < (n/2)) tempqij2[m] = qij1[comput[valL]][valL];
-                                    else tempqij2[m] = qij2[comput[valL]][valL-3688];
-                                } else if (m >= j) {
-                                    valL = L2[i-1844][m+1]-1;
-                                    if (valL < (n/2)) tempqij2[m] = qij1[comput[valL]][valL];
-                                    else tempqij2[m] = qij2[comput[valL]][valL-3688];
-                                }
-                            }
-                            tempuij = tempqij2[0];
-                            //for(m = 1; m < 5; m++) tempuij = CHK(tempuij, tempqij2[m]);
-                                for (m = 1; m < 5; m++) {
-                                    if (tempqij2[m] > 0) sgn = 1;
-                                    else if (tempqij2[m] == 0) sgn = 0;
-                                    else sgn = -1;
-                                    //if (i == 0) printf("sgn=%d ", sgn);
-                                    tempuij = sgn * tempuij;
-                                    //if (i == 0)printf("tempuij = %g; ",tempuij);
-                                }
-                            uij2[i-1844][j] = tempuij;
-                        }
-                    }*/
+                    }
                     if (i < (rc/2)) {
                         for (m = 0; m < 12; m++) comput[L1[i][m] - 1] += 1;
                     } else {
@@ -684,11 +635,9 @@ int main() {
                 if (i < (rc/2)) {
                     for (j = 0; j < 12; j++) checkbit[i] += output[L1[i][j] - 1];
                     checkbit[i] = checkbit[i] % 2;
-                    //if (checkbit[i] != 0) printf("checkbit[%d] = %d \n",i,checkbit[i]);
                 } else {
                     for (j = 0; j < 6; j++) checkbit[i] += output[L2[i-1844][j] - 1];
                     checkbit[i] = checkbit[i] % 2;
-                    //if (checkbit[i] != 0) printf("checkbit = %d \n",checkbit[i]);
                 }
             }
                 /*for (i= rc/2; i < rc; i++) 
@@ -714,13 +663,6 @@ int main() {
         printf("num = %d ",num);
         printf("totalerror1 = %d ", totalerror1);
         printf("totalerror2 = %d ", totalerror2);
-        FILE *outfp3; 
-        outfp3 = fopen("c2alg1_1_8_level1_totalerror1_0313.txt","a");
-        if(error_block == 10||error_block == 20||error_block == 50) fprintf(outfp3,"num = %d,  ebn0s = %g , errorblock = %d",num,ebn0s,error_block);
-        if(error_block == 10||error_block == 20||error_block == 50) fprintf(outfp3,"totalerror1 = %d ",totalerror1);
-        if(error_block == 10||error_block == 20||error_block == 50) fprintf(outfp3,"totalerror2 = %d ",totalerror2);
-        if(error_block == 10||error_block == 20||error_block == 50) fprintf(outfp3,"\n");
-        fclose(outfp3);
     }
     double ber1;
     double ber2;
@@ -735,7 +677,7 @@ int main() {
     // code ended
 
     FILE *outfp2; 
-    outfp2 = fopen("c2alg_1_8_level1_tryieq=3_0313.txt","w");
+    outfp2 = fopen("c2alg_1_4_level1_tryieq=5.txt","w");
          fprintf(outfp2,"%g ",ebn0s);
          fprintf(outfp2,"%g ",ber1);
          fprintf(outfp2,"%g ",ber2);
